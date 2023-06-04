@@ -2,8 +2,8 @@
 
 int main(void)
 {
-  int i = 1;
-  double d = 0.2;
+  int i = 1.99;
+  double d = 1.99;
   char c = 'A';
 
   printf("iの値は %d\n", i);
